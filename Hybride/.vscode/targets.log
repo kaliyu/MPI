@@ -1,0 +1,441 @@
+make all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 4.3
+# Built for x86_64-pc-linux-gnu
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+
+# Make data base, printed on Tue Feb 17 11:05:45 2026
+
+# Variables
+
+# environment
+JAVA_BASE = /usr/lib/jvm/default-java
+# environment
+JAVA_HOME = /usr/lib/jvm/default-java
+# environment
+GDK_BACKEND = x11
+# environment
+LC_ALL = C
+# environment
+GNOME_SHELL_SESSION_MODE = ubuntu
+# environment
+SSH_AGENT_LAUNCHER = gnome-keyring
+# environment
+FONTCONFIG_PATH = /etc/fonts
+# environment
+SNAP_LAUNCHER_ARCH_TRIPLET = x86_64-linux-gnu
+# environment
+VSCODE_CRASH_REPORTER_PROCESS_TYPE = extensionHost
+# environment
+VSCODE_CWD = /home/tpuser/Documents/Hybride
+# environment
+WINDOWPATH = 2
+# environment
+NVM_DIR = /usr/local/produits/nvm
+# environment
+PRODUITS = /usr/local/produits
+# default
+MAKE_COMMAND := make
+# environment
+APPLICATIONINSIGHTS_CONFIGURATION_CONTENT = {}
+# environment
+QT_ACCESSIBILITY = 1
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+SNAP_INSTANCE_NAME = code
+# environment
+GDK_PIXBUF_MODULEDIR = /snap/code/225/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# environment
+ANDROID_USER_HOME = /usr/local/produits/Android/Sdk/tools
+# environment
+PWD = /home/tpuser/Documents/Hybride
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+XDG_DATA_DIRS = /home/tpuser/snap/code/225/.local/share:/home/tpuser/snap/code/225:/snap/code/225/usr/share:/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+# environment
+SNAP_EUID = 1000
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_CODE_CACHE_PATH = /home/tpuser/.config/Code/CachedData/c3a26841a84f20dfe0850d0a5a9bd01da4f003ea
+# environment
+LANG = C
+# environment
+XAUTHORITY = /run/user/1000/gdm/Xauthority
+# default
+.LOADED := 
+# default
+.INCLUDE_DIRS = /usr/local/include /usr/include /usr/include
+# environment
+GNOME_TERMINAL_SERVICE = :1.112
+# makefile
+MAKEFLAGS = pqrR
+# environment
+DBUS_STARTER_ADDRESS = unix:path=/run/user/1000/bus,guid=bf84201db5c47ecaa2eb5ea46993d9d2
+# makefile
+CURDIR := /home/tpuser/Documents/Hybride
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# environment
+LESSOPEN = | /usr/bin/lesspipe %s
+# environment
+VSCODE_L10N_BUNDLE_LOCATION = 
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+MFLAGS = -pqrR
+# environment
+SSH_AUTH_SOCK = /run/user/1000/keyring/ssh
+# default
+.SHELLFLAGS := -c
+# environment
+XDG_CONFIG_DIRS = /etc/xdg/xdg-ubuntu:/etc/xdg
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# environment
+XDG_SESSION_DESKTOP = ubuntu
+# makefile (from 'Makefile', line 1)
+MAKEFILE_LIST := Makefile
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_PID = 52443
+# environment
+XDG_SESSION_TYPE = x11
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# environment
+XDG_DATA_HOME = /home/tpuser/snap/code/225/.local/share
+# environment
+SESSION_MANAGER = local/OR-ST-E11L18:@/tmp/.ICE-unix/2024,unix/OR-ST-E11L18:/tmp/.ICE-unix/2024
+# automatic
+*F = $(notdir $*)
+# environment
+MANPATH = /usr/local/produits/minizinc/doc/man:
+# environment
+CHROME_DESKTOP = code.desktop
+# environment
+DBUS_SESSION_BUS_ADDRESS = unix:path=/run/user/1000/bus,guid=bf84201db5c47ecaa2eb5ea46993d9d2
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# makefile (from 'Makefile', line 2)
+EXEC = main hybrideV1
+# environment
+VSCODE_NLS_CONFIG = {"userLocale":"en-us","osLocale":"fr-fr","resolvedLanguage":"en","defaultMessagesFile":"/snap/code/225/usr/share/code/resources/app/out/nls.messages.json","locale":"en-us","availableLanguages":{}}
+# environment
+ORACLE_BASE = /usr/local/produits/oracle
+# default
+MAKE_HOST := x86_64-pc-linux-gnu
+# environment
+GTK_PATH = /snap/code/225/usr/lib/x86_64-linux-gnu/gtk-3.0
+# environment
+ANDROID_HOME = /usr/local/produits/Android/Sdk
+# environment
+GNOME_DESKTOP_SESSION_ID = this-is-deprecated
+# environment
+ORACLE_HOME = /usr/local/produits/oracle/client_10.2
+# makefile
+SHELL = /bin/sh
+# default
+MAKECMDGOALS := all
+# environment
+XMODIFIERS = @im=ibus
+# environment
+LD_LIBRARY_PATH = /lib/x86_64-linux-gnu:/usr/local/produits/node/lib:/usr/local/produits/gecode/lib:/lib:/usr/lib:/usr/local/lib:/usr/lib/x86_64-linux-gnu:/usr/local/produits/minizinc/lib:/lib/i386-linux-gnu
+# environment
+SHLVL = 1
+# environment
+GNOME_TERMINAL_SCREEN = /org/gnome/Terminal/screen/2199b71e_0c35_4e49_802a_8a915017def5
+# environment
+MAKELEVEL := 0
+# environment
+SWT_GTK3 = 0
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+SNAP_COOKIE = A1AXQaQvWu6hFmspenWjnwkTuT4s-R6Hxn8ZeTTMQKdGoMIIJCNg
+# environment
+PATH = /usr/local/produits/nvm:/usr/local/produits/node/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/local/produits/oracle/odi11/client_11/oracledi/client/odi/bin:.:/usr/local/produits/oracle/client_10.2/bin:/usr/local/produits/gprolog/bin:/usr/local/produits/gecode/bin:/usr/local/produits/phpstorm/bin/:/usr/local/produits/idea-iu/:/usr/local/produits/minizinc/bin:/usr/local/produits/Android/Sdk:/usr/local/produits/Android/Sdk/tools:/usr/local/produits/android-studio/bin
+# default
+MAKEFILES := 
+# automatic
+^F = $(notdir $^)
+ 
+# environment
+SNAP_USER_COMMON = /home/tpuser/snap/code/common
+# environment
+SNAP = /snap/code/225
+# environment
+APPLICATION_INSIGHTS_NO_STATSBEAT = true
+# environment
+SNAP_REVISION = 225
+# environment
+SNAP_REAL_HOME = /home/tpuser
+# environment
+FONTCONFIG_FILE = /etc/fonts/fonts.conf
+# environment
+USERNAME = tpuser
+# environment
+LESSCLOSE = /usr/bin/lesspipe %s %s
+# automatic
+?F = $(notdir $?)
+# environment
+GTK_IM_MODULE_FILE = /home/tpuser/snap/code/common/.cache/immodules/immodules.cache
+# environment
+XDG_CURRENT_DESKTOP = ubuntu:GNOME
+# environment
+LS_COLORS = rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+# automatic
++F = $(notdir $+)
+# environment
+DESKTOP_SESSION = ubuntu
+# environment
+LOCPATH = /snap/code/225/usr/lib/locale
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+XDG_DATA_DIRS_VSCODE_SNAP_ORIG = /usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+# environment
+LOGNAME = tpuser
+# environment
+SNAP_ARCH = amd64
+# makefile
+.DEFAULT_GOAL := all
+# environment
+SYSTEMD_EXEC_PID = 2024
+# environment
+DISPLAY = :0
+# environment
+USER = tpuser
+# environment
+GTK_MODULES = gail:atk-bridge
+# default
+MAKE_VERSION := 4.3
+# environment
+SNAP_DATA = /var/snap/code/225
+# environment
+SNAP_CONTEXT = A1AXQaQvWu6hFmspenWjnwkTuT4s-R6Hxn8ZeTTMQKdGoMIIJCNg
+# makefile (from 'Makefile', line 1)
+MPICXX = mpic++
+# environment
+DBUS_STARTER_BUS_TYPE = session
+# environment
+QT_STYLE_OVERRIDE = gtk
+# environment
+XDG_RUNTIME_DIR = /run/user/1000
+# environment
+GPG_AGENT_INFO = /run/user/1000/gnupg/S.gpg-agent:0:1
+# environment
+SNAP_UID = 1000
+# environment
+COLORTERM = truecolor
+# environment
+XDG_CONFIG_DIRS_VSCODE_SNAP_ORIG = /etc/xdg/xdg-ubuntu:/etc/xdg
+# environment
+GDK_PIXBUF_MODULE_FILE = /home/tpuser/snap/code/common/.cache/gdk-pixbuf-loaders.cache
+# environment
+FC_FONTATIONS = 1
+# environment
+GIO_MODULE_DIR = /home/tpuser/snap/code/common/.cache/gio-modules
+# environment
+XDG_SESSION_CLASS = user
+# environment
+HOME = /home/tpuser
+# environment
+QT_IM_MODULE = ibus
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+VSCODE_IPC_HOOK = /run/user/1000/vscode-9b75cede-1.10-main.sock
+# environment
+TERM = xterm-256color
+# environment
+GTK_EXE_PREFIX = /snap/code/225/usr
+# environment
+SNAP_NAME = code
+# environment
+GSETTINGS_SCHEMA_DIR = /home/tpuser/snap/code/225/.local/share/glib-2.0/schemas
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# environment
+SNAP_VERSION = c3a26841
+# default
+SUFFIXES := 
+# environment
+VSCODE_CLI = 1
+# environment
+ELECTRON_NO_ATTACH_CONSOLE = 1
+# environment
+VTE_VERSION = 6800
+# environment
+SNAP_COMMON = /var/snap/code/common
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync check-symlink load
+# environment
+SNAP_USER_DATA = /home/tpuser/snap/code/225
+# environment
+XDG_MENU_PREFIX = gnome-
+# environment
+VSCODE_ESM_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+GDMSESSION = ubuntu
+# environment
+SNAP_LIBRARY_PATH = /var/lib/snapd/lib/gl:/var/lib/snapd/lib/gl32
+# variable set hash-table stats:
+# Load=141/1024=14%, Rehash=0, Collisions=20/172=12%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (device 66307, inode 5245024): 14 files, no impossibilities.
+
+# 14 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+%.o: %.cpp
+#  recipe to execute (from 'Makefile', line 13):
+	$(MPICXX) -o $@ -c $< -fopenmp
+
+# 1 implicit rules, 0 (0.0%) terminal.
+# Files
+
+# Not a target:
+hybrideV1.cpp:
+#  Implicit rule search has been done.
+#  Last modified 2026-02-17 11:01:28.102952527
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+fonctions.cpp:
+#  Implicit rule search has been done.
+#  Last modified 2026-02-17 10:45:33.012325061
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2026-02-17 11:04:58.306214836
+#  File has been updated.
+#  Successfully updated.
+
+mrproper: clean
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 21):
+	@rm -rf $(EXEC)
+
+clean:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 18):
+	@rm -rf *.o
+
+hybrideV1.o: hybrideV1.cpp
+#  Implicit rule search has been done.
+ 
+#  Implicit/static pattern stem: 'hybrideV1'
+#  Last modified 2026-02-17 11:02:10.430823095
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 13):
+	$(MPICXX) -o $@ -c $< -fopenmp
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+all: main hybrideV1
+#  Phony target (prerequisite of .PHONY).
+#  Command line target.
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has been updated.
+#  Successfully updated.
+
+fonctions.o: fonctions.cpp
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: 'fonctions'
+#  Last modified 2026-02-17 11:02:10.066824254
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 13):
+	$(MPICXX) -o $@ -c $< -fopenmp
+
+# Not a target:
+main.cpp:
+#  Implicit rule search has been done.
+#  Last modified 2026-02-17 11:01:52.090880502
+#  File has been updated.
+#  Successfully updated.
+
+main: main.o fonctions.o
+#  Implicit rule search has not been done.
+#  Last modified 2026-02-17 11:04:14.994384781
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 7):
+	$(MPICXX) -o $@ $^ -fopenmp
+
+main.o: main.cpp
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: 'main'
+#  Last modified 2026-02-17 11:02:10.802821909
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 13):
+	$(MPICXX) -o $@ -c $< -fopenmp
+
+hybrideV1: hybrideV1.o fonctions.o
+#  Implicit rule search has not been done.
+#  Last modified 2026-02-17 11:05:06.190183037
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 10):
+	$(MPICXX) -o $@ $^ -fopenmp
+
+.PHONY: all clean mrproper
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# files hash-table stats:
+# Load=15/1024=1%, Rehash=0, Collisions=0/49=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 25 / storage = 222 B / avg = 8 B
+# current buf: size = 8162 B / used = 222 B / count = 25 / avg = 8 B
+
+# strcache performance: lookups = 56 / hit rate = 55%
+# hash-table stats:
+# Load=25/8192=0%, Rehash=0, Collisions=0/56=0%
+# Finished Make data base on Tue Feb 17 11:05:45 2026
+
+ 
